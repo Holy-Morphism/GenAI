@@ -4,14 +4,14 @@ Notebooks for Gen AI projects
 
 ## Notebooks
 
-### [AdvanceRAG.ipynb](AdvanceRAG.ipynb)
+### [Advance RAG with Ingestion and Query Pipeline](AdvanceRAG.ipynb)
 
-### [chatbot.ipynb](chatbot.ipynb)
+### [Chatbot](chatbot.ipynb)
 
-### [MultiModalRAG.ipynb](MultiModalRAG.ipynb)
+### [Mulit Model RAG with LlamaIndex Gemini and Whisper Speech to text](MultiModalRAG.ipynb)
 
-### [TextAugmentor.ipynb](TextAugmentor.ipynb)
+### [Text augmentor with Parrot](TextAugmentor.ipynb)
 
-### [AgentRAG.ipynb](AgentRAG.ipynb)
+### [RAG Agent](AgentRAG.ipynb)
 
 ### [Agentic RAG with LlamaParse](AgentRAGLlamaParse.ipynb)
