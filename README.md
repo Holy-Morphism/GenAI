@@ -13,3 +13,5 @@ Notebooks for Gen AI projects
 ### [TextAugmentor.ipynb](TextAugmentor.ipynb)
 
 ### [AgentRAG.ipynb](AgentRAG.ipynb)
+
+### [Agentic RAG with LlamaParse](AgentRAGLlamaParse.ipynb)
