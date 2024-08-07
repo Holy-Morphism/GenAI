@@ -11,3 +11,5 @@ Notebooks for Gen AI projects
 ### [MultiModalRAG.ipynb](MultiModalRAG.ipynb)
 
 ### [TextAugmentor.ipynb](TextAugmentor.ipynb)
+
+### [AgentRAG.ipynb](AgentRAG.ipynb)
